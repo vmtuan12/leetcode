@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/minimum-depth-of-binary-tree/description/
+package easy;// https://leetcode.com/problems/minimum-depth-of-binary-tree/description/
 
 public class MinimumDepthOfBinaryTree {
     public static class TreeNode {

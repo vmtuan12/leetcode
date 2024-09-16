@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/balanced-binary-tree/description/
+package easy;// https://leetcode.com/problems/balanced-binary-tree/description/
 
 public class BalancedBinaryTree {
     public static class TreeNode {

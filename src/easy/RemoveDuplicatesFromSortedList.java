@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
+package easy;// https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
 
 public class RemoveDuplicatesFromSortedList {
     public static class ListNode {

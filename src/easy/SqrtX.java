@@ -1,3 +1,5 @@
+package easy;
+
 public class SqrtX {
     public static void main(String[] args) {
         int x = 2147483647;

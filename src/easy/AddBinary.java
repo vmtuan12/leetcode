@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/add-binary/description/
+package easy;// https://leetcode.com/problems/add-binary/description/
 
 public class AddBinary {
     public static void main(String[] args) {

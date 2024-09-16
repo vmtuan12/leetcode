@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/binary-tree-inorder-traversal/description/
+package easy;// https://leetcode.com/problems/binary-tree-inorder-traversal/description/
 
 import java.util.ArrayList;
 import java.util.List;

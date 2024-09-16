@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
+package easy;// https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
 
 public class MaximumDepthOfBinaryTree {
     public class TreeNode {

@@ -1,3 +1,5 @@
+package easy;
+
 import java.util.Arrays;
 
 // https://leetcode.com/problems/merge-sorted-array/description/
